@@ -1,2 +1,2 @@
 # newRepo
-云计算第一个github仓库
+云计算课程的第一个github仓库！
